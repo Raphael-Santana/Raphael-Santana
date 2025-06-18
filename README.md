@@ -1,26 +1,35 @@
-<!-- Greeting -->
-# Olá, eu sou Raphael! :wave:
+# Raphael Santana
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!;Welcome+to+my+profile!" alt="Typing SVG" />
 
-[![Linkedin](https://img.shields.io/badge/-raphael%20santana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-santaana)
-[![Gmail](https://img.shields.io/badge/-r.laurindo.santanapro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:r.laurindo.santanapro@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-santaana)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.laurindo.santanapro@gmail.com)
 
-<!-- Introduction -->
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br>
+
 Graduando em Sistemas de Informação com experiência prática em Automação Robótica de Processos (RPA) e atuação em pesquisa científica voltada para o desenvolvimento e aplicação de modelos de aprendizado de máquina, com ênfase na compreensão teórica, análise e processamento de dados.
 
-- 📚 Atualmente estudo as técnicas clássicas do machine learning.
-- 🔭 Faço parte de um projeto de pesquisa envolvendo visão computacional.
-- 🌱 Desejo fortemente me aprofundar mais no ecossistema de inteligência artificial.
+- 📚 Estudando **Machine Learning** clássico e suas aplicações
+- 🧠 Interesse por Fundamentos Matemáticos de IA (Álgebra Linear, Cálculo, Estatística)
+- 🔬 Projeto de pesquisa com foco na **Visão Computacional**
+- 💻 Desenvolvendo projetos com **Python** e **FastAPI**
+- 🌱 Buscando evolução na área da **inteligência artificial**
+
+## 🛠️ Habilidades
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+## 🌱 Familiarizando
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-### Habilidades
-<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
-<code><a href="https://scikit-learn.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn logo" /></a></code>
-<code><a href="https://pandas.pydata.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas logo" /></a></code>
-<code><a href="https://numpy.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy logo" /></a></code>
-<code><a href="https://matplotlib.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib logo" /></a></code>
-
-### Familiarizando
-<code><a href="https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch logo" /></a></code>
-
----
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=A+intelig%C3%AAncia+artificial+n%C3%A3o+%C3%A9+sobre+substituir...;...mas+sobre+amplificar+a+intelig%C3%AAncia+humana!+%F0%9F%A7%A0%E2%9C%A8" alt="Quote Typing" />
+</div>
